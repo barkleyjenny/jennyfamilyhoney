@@ -45,6 +45,7 @@ hr.star-primary {
     border-top: solid 5px;
     text-align: center;
     overflow: visible;
+    mix-blend-mode: multiply;
 }
 
 hr.star-light:after,
